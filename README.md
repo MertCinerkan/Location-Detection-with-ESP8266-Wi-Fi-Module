@@ -52,3 +52,7 @@ To run this project, you need the following:
 
 ## Example Output
 Below is a sample output from the Serial Monitor:
+
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
