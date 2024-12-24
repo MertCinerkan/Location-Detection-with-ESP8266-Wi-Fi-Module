@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../esp_001"
+		},
+		{
+			"name": "esp_JSON_001",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
